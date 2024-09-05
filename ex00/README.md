@@ -1,6 +1,7 @@
 // exercicios em c
-Meus exercicios em c
+exercicio em c
 
-PRIMEIRO EXRCICIO ft_putcha
+ft_putchar
 
-Segundo Exercicio ft_print_alphabet 
+Escreva uma função que mostre o caractere passado como prametro.
+Para mostrar o caractere deve usar a função write.
