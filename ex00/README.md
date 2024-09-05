@@ -1,4 +1,4 @@
-// exercicios em c
+
 exercicio em c
 
 ft_putchar
