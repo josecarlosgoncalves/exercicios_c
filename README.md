@@ -57,3 +57,12 @@ Escreva uma função que mostre todas as combinações de dois números  (xx xx)
 ft_putnbr
 
 Escreva uma função que mostre um número passado como parâmetro . A função deve ser capaz de representar todos os os valores possíveis de uma variavel do tipo int.
+
+# Exercicio 08
+
+ft_print_combn
+
+Escreva uma função que mostre todas as diferentes combinções de n números em ordem crescente
+
+n será tal que 0 < n < 10
+Se n = 2 o resultado esperado será 01, 02, 03, ...,09 , 12, ...., 79. 

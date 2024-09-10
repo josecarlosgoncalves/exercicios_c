@@ -1,3 +1,6 @@
+// Author José carlos Gonçalves
+// Date 10/09/2024
+
 #include <unistd.h>
 
 void	ft_putchar(char c)
