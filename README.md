@@ -1,4 +1,4 @@
-## exercicios em c
+# exercicios em c
 
 # exercicio 00
 
@@ -44,3 +44,10 @@ e.: 012, 013,014, 015, 016, 017,018, 019,023, ....789
 987 fica de fora porque 789 já esta presente
 
 999 fica de fora porque não tem exclusivaente digitos diferentes uns dos outros.
+
+# exercicio 06
+
+ft_print_comb2
+
+Escreva uma função que mostre todas as combinações de dois números  (xx xx) entre 0 e 99 em ordem crescente
+00 01, 00 02, 00 03, ... 00 99, 01 02, .... 97 99
