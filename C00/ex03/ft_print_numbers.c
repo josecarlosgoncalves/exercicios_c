@@ -1,5 +1,11 @@
-// author: José Carlos Gonçalves
-// Date: 09/09/2024
+/* ************************************************************************** */
+/*                                                                            */
+/*   Author: Jose Carlos Goncalves                                            */
+/*   Email:  josecarlosgoncalves@outlook.pt                                   */
+/*   Date:   2025/08/21                                                       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <unistd.h>
 
 void ft_print_numbers(void);

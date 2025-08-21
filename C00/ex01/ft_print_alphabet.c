@@ -1,6 +1,11 @@
-// author: José Carlos Gonçalves
-// Date: 02/09/2024
-#include <unistd.h>
+/* ************************************************************************** */
+/*                                                                            */
+/*   Author: Jose Carlos Goncalves                                            */
+/*   Email:  josecarlosgoncalves@outlook.pt                                   */
+/*   Date:   2025/08/21                                                       */
+/*                                                                            */
+/* ************************************************************************** */
+#include <stdio.h>
 
 void ft_print_alphabet(void);
 
@@ -15,10 +20,9 @@ void ft_print_alphabet(void)
 	char w ='a';
 	while ( w <= 'z')
 	{
-		write(1, &w, 1);
-		write(1, " ",1);
+		printf("%c ", w);
 		w++;
 		
 	}
-	 write (1,"\n", 1);	
+	printf("\n");
 }
